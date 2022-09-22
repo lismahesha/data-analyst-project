@@ -1,0 +1,3 @@
+Hi everyone,
+In this project i will use Olist eCommerce data from Kaggle. Olist is the largest department store in the Brazilian marketplaces, Operates as a SaaS (Software as a Service) technology company since 2015.
+The data is divided in multiple datasets for better understanding and organization, but in this project i will only use customer datasets, order dataset and order payment dataset.
